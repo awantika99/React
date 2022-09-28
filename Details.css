@@ -1,0 +1,17 @@
+.table{
+
+}
+
+
+table{
+    width: 100%;
+    border: 1px solid;
+  }
+  th {
+    height: 70px;
+    border: 1px solid;
+  }
+  td {
+    text-align: center;
+    border: 1px solid;
+  }
